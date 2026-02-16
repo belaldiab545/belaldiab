@@ -1,2 +1,2 @@
-# belaldiab.io
+# belaldiab
 Communication and Electronics Engineer
